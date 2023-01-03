@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/volkanozbek/antd-dynamic-theme-switch/blob/master/public/tema-switch.gif" alt="theme-switch">
 </div>
-<h1 align="center">Welcome to antd-dynamic-theme-switch 👋</h1>
+<h1 align="center">Welcome to AntDesign Dynamic Theme Switch 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -28,11 +28,6 @@ npm install
 npm start
 ```
 
-## Run tests
-
-```sh
-npm run test
-```
 
 ## Author
 
