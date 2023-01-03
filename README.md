@@ -1,37 +1,51 @@
-![cover image](https://res.cloudinary.com/dmq9pzw0o/image/upload/v1593463604/dynamic-themes-in-ant-design-how-to-change-between-light-and-dark-theme/Group_1_1_cug4tn.png)
-
-# Welcome to AntD Dark Mode Example 👋
-
-![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
-[![Twitter: Jose_R_Felix](https://img.shields.io/twitter/follow/Jose_R_Felix.svg?style=social)](https://twitter.com/Jose_R_Felix)
+<div align="center">
+<img src="https://github.com/volkanozbek/antd-dynamic-theme-switch/blob/master/public/tema-switch.gif" alt="theme-switch">
+</div>
+<h1 align="center">Welcome to antd-dynamic-theme-switch 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: Volkan Ozbek" src="https://img.shields.io/badge/License-Volkan Ozbek-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/volkanozbektr" target="_blank">
+    <img alt="Twitter: volkanozbektr" src="https://img.shields.io/twitter/follow/volkanozbektr.svg?style=social" />
+  </a>
+</p>
 
 > Example AntD app showcasing how to switch between themes with react-css-theme-switcher.
+
+### ✨ [Demo](https://antd-dynamic-theme-switch.netlify.app/)
 
 ## Install
 
 ```sh
-yarn install
+npm install
 ```
 
 ## Usage
 
 ```sh
-yarn run start
+npm start
+```
+
+## Run tests
+
+```sh
+npm run test
 ```
 
 ## Author
 
-👤 **Jose Felix**
+👤 **Volkan Özbek**
 
-- Website: jfelix.info
-- Twitter: [@Jose_R_Felix](https://twitter.com/Jose_R_Felix)
-- Github: [@JoseRFelix](https://github.com/JoseRFelix)
+* Website: siber.dev
+* Twitter: [@volkanozbektr](https://twitter.com/volkanozbektr)
+* Github: [@volkanozbek](https://github.com/volkanozbek)
+* LinkedIn: [@volkanozbek](https://linkedin.com/in/volkanozbek)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
----
-
+***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
